@@ -11,6 +11,10 @@ A minimal, production-ready backend starter for AI projects.
 1. Visit the API docs at `/docs`
 2. Test the `/health` endpoint
 
+## Live Demo
+[https://simple-fastapi-backend-production-a8f5.up.railway.app/](https://simple-fastapi-backend-production-a8f5.up.railway.app/)
+
+
 ## Need a Backend?
 I build fast, reliable backends for AI startups. 
 Let's chat! 
