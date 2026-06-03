@@ -14,6 +14,10 @@ A minimal, production-ready backend starter for AI projects.
 ## Live Demo
 [https://simple-fastapi-backend-production-a8f5.up.railway.app/](https://simple-fastapi-backend-production-a8f5.up.railway.app/)
 
+## Documentation
+
+[https://simple-fastapi-backend-production-a8f5.up.railway.app/docs](https://simple-fastapi-backend-production-a8f5.up.railway.app/docs)
+
 
 ## Need a Backend?
 I build fast, reliable backends for AI startups. 
